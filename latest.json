@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "apkUrl": "https://github.com/dinarsirbanov16678-blipNekey09/kinomania-androidtv-updates/releases/download/v1.0.4/KINOMANIA-AndroidTV-1.0.4-debug.apk",
-  "sha256": "8b6c4f3f460fc65e4b8079b4fd9f8194a94f5530c1076cb50d408194d1dbde19",
-  "releaseNotes": "В форме публикации кнопка выбора постера доступна сразу; экран прокручивается пультом. Добавлены статусы подготовки, загрузки и публикации; ошибки теперь видны в верхней части формы. Лимит видео — 50 МБ."
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "apkUrl": "https://github.com/dinarsirbanov16678-blipNekey09/kinomania-androidtv-updates/releases/download/v1.0.5/KINOMANIA-AndroidTV-1.0.5-debug.apk",
+  "sha256": "0254c6a5085f41552873f8a80c8d0a695ac7848b940ecbebd87aa208682908cc",
+  "releaseNotes": "Плеер показывает только фильм, когда панель управления скрыта. Главный экран обновлён: крупные постеры собраны в горизонтальную киноленту."
 }
