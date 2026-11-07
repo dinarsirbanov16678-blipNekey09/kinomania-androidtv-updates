@@ -1,0 +1,7 @@
+{
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/dinarsirbanov16678-blipNekey09/kinomania-androidtv-updates/releases/download/v1.0.1/KINOMANIA-AndroidTV-1.0.1-debug.apk",
+  "sha256": "ae8c289f9bd0febfed6de82d7c88feee53f55bb3ab4dfc27ec00b55775f80acf",
+  "releaseNotes": "Добавлена автоматическая проверка обновлений при запуске и каждые 6 часов. APK скачивается с проверкой SHA-256 и подписи; установку подтверждает системный установщик Android."
+}
