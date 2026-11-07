@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/dinarsirbanov16678-blipNekey09/kinomania-androidtv-updates/releases/download/v1.0.2/KINOMANIA-AndroidTV-1.0.2-debug.apk",
-  "sha256": "918a210236a3557bee0085e858a577bddec57ed785e2c06d96bd0adeef6bb1b1",
-  "releaseNotes": "Общая облачная медиатека: опубликованные видео доступны на всех ТВ. Обновление можно скачать и установить прямо из KINOMANIA."
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/dinarsirbanov16678-blipNekey09/kinomania-androidtv-updates/releases/download/v1.0.3/KINOMANIA-AndroidTV-1.0.3-debug.apk",
+  "sha256": "30590287af0f93a27677644072f4e5904b1b24c7ce2445356d69acc6f22acb6b",
+  "releaseNotes": "Исправлена загрузка видео с устройства; добавлен выбор публичного постера JPEG, PNG или WebP до 5 МБ. Постеры учитываются в общей квоте медиатеки и удаляются вместе с видео."
 }
