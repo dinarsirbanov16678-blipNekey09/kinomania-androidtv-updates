@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "apkUrl": "https://github.com/dinarsirbanov16678-blipNekey09/kinomania-androidtv-updates/releases/download/v1.0.5/KINOMANIA-AndroidTV-1.0.5-debug.apk",
-  "sha256": "0254c6a5085f41552873f8a80c8d0a695ac7848b940ecbebd87aa208682908cc",
-  "releaseNotes": "Плеер показывает только фильм, когда панель управления скрыта. Главный экран обновлён: крупные постеры собраны в горизонтальную киноленту."
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "apkUrl": "https://github.com/dinarsirbanov16678-blipNekey09/kinomania-androidtv-updates/releases/download/v1.0.6/KINOMANIA-AndroidTV-1.0.6-debug.apk",
+  "sha256": "494693c58f8ccbc3b4ac9b3cde5600caf0c5be3c63e02c6454cb9496a4f7586e",
+  "releaseNotes": "Загрузка постеров надёжнее: до трёх попыток, увеличенный таймаут и HTTPS-перенаправления. APK подписан тем же сертификатом, что версии 1.0.0–1.0.5."
 }
