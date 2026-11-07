@@ -1,7 +1,7 @@
 {
   "versionCode": 10,
   "versionName": "1.0.9",
-  "apkUrl": "https://github.com/dinarsirbanov16678-blipNekey09/kinomania-androidtv-updates/releases/download/v1.0.9/KINOMANIA-AndroidTV-1.0.9-debug.apk",
+  "apkUrl": "https://xvcorpypykrslqumqwly.supabase.co/storage/v1/object/public/kinomania-updates/v1.0.9/KINOMANIA-AndroidTV-1.0.9-debug.apk",
   "sha256": "2256d1e6a83de3154348a5a8cbae232dfb42380d6fb9728008e3e628c355945e",
   "releaseNotes": "Исправлена пустая иконка в Android TV: добавлены PNG-иконки по плотностям и значок явно назначен приложению и TV-активности."
 }
