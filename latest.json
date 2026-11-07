@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
-  "apkUrl": "https://github.com/dinarsirbanov16678-blipNekey09/kinomania-androidtv-updates/releases/download/v1.0.7/KINOMANIA-AndroidTV-1.0.7-debug.apk",
-  "sha256": "b42ae7cdb2fb78391f812a9c02e2469ba872fc9f04e88d3eda54b187718f29cb",
-  "releaseNotes": "Добавлено подтверждение выхода: на главном экране кнопка «Назад» предлагает «ОСТАТЬСЯ» или «ВЫЙТИ»; в плеере «Назад» возвращает к каталогу. Подпись APK совместима с версиями 1.0.0–1.0.6."
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/dinarsirbanov16678-blipNekey09/kinomania-androidtv-updates/releases/download/v1.0.8/KINOMANIA-AndroidTV-1.0.8-debug.apk",
+  "sha256": "b17a54ca0c4712db475a5b5658ce0c834856af8512e78b18fe75867496db5ada",
+  "releaseNotes": "Фон нижней панели управления плеера теперь прозрачный. Подпись APK совместима с версией 1.0.7."
 }
