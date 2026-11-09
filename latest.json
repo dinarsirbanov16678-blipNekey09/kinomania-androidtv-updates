@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.11",
-  "apkUrl": "https://github.com/dinarsirbanov16678-blipNekey09/kinomania-androidtv-updates/releases/download/v1.0.11/KINOMANIA-AndroidTV-1.0.11-debug.apk",
-  "sha256": "b27684d295a8fa7c6df5886dca76aaf517a84c0fe6de2464a6a51e3fbd8d5830",
-  "releaseNotes": "Добавлена отдельная лента популярных фильмов Internet Archive с явными лицензиями Public Domain / Creative Commons. Потоки MP4 воспроизводятся напрямую через плеер KINOMANIA; личная медиатека и автообновление сохранены."
+  "versionCode": 13,
+  "versionName": "1.0.12",
+  "apkUrl": "https://github.com/dinarsirbanov16678-blipNekey09/kinomania-androidtv-updates/releases/download/v1.0.12/KINOMANIA-AndroidTV-1.0.12-debug.apk",
+  "sha256": "b1cd78d6782284fe26a169d02de37366a88e645ead04a0d7ac851700e012f690",
+  "releaseNotes": "Добавлен пользовательский HTTPS JSON-каталог легальных фильмов в меню разработчика и отдельная вкладка. Воспроизводятся прямые MP4; принимаются явные ссылки лицензий Public Domain / Creative Commons."
 }
